@@ -1,0 +1,11 @@
+<br>
+<div class="container-fluid">
+	<breadcrumb>
+		<tab name="Home" icon="glyphicon glyphicon-home"></tab>
+		<tab [routerLink]='["/Portfolio"]' name="Portfolio" icon="glyphicon glyphicon-home"></tab>
+		<tab [routerLink]='["/Form"]' name="Form Component" icon="glyphicon glyphicon-home"></tab>
+		<tab [routerLink]='["/Demo"]' name="Demo Components" icon="glyphicon glyphicon-home"></tab>
+	</breadcrumb>
+	<hr class="header_hr">
+	<router-outlet></router-outlet>
+</div>
