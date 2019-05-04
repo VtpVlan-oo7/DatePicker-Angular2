@@ -29,6 +29,3 @@ Simple Angular2 date picker using Bootflat Theme. Uses version "2.0.0-beta" of A
  
  <a href="http://plnkr.co/edit/AiDiNl8SrSKIwDUYWl50?p=preview">Delete Modal Component</a>
 
-#Author
-
-Pardeep Jain
